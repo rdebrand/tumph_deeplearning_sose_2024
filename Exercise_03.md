@@ -92,6 +92,7 @@ def plot(X,z,pars):
     plt.scatter(X[:,0],X[:,1],c = z)
     plt.xlim(-5,5)
     plt.ylim(-5,5)
+    plt.show()
 ```
 
 
